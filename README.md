@@ -8,7 +8,7 @@
 
 <br><br>
 
-## 📭 Contact me (click on the thumbnail) :
+## 📭 Contact me :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.pinet.06@gmail.com)
 <br><br>
