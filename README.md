@@ -2,7 +2,7 @@
 
 👀 Hi, my name is Marc and I'm a french studient who is learning computer science.
 
-🎓 I'm currently studying at the [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
+🎓 I'm currently studying at [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
 
 💻 I really enjoy doing math, computer science and learning everything related to science in general.
 
