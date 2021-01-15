@@ -4,7 +4,7 @@
 [![My statistics](https://github-readme-stats.vercel.app/api?username=marcpinet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-👀 Hi, my name is Marc and I'm a french studient who is learning computer science.
+👀 Hi, my name is Marc and I'm a french student who is learning computer science.
 
 🎓 I'm currently studying at [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
 
