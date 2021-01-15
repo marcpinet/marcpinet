@@ -1,5 +1,9 @@
 ![test](https://i.imgur.com/bN5OxZO.png)
 
+<br><br>
+[![My statistics](https://github-readme-stats.vercel.app/api?username=marcpinet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 👀 Hi, my name is Marc and I'm a french studient who is learning computer science.
 
 🎓 I'm currently studying at [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
@@ -41,3 +45,5 @@ ORDER BY MasteryLevel DESC -- Means that I sorted them.
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <br><br>
+
+![test2](https://i.imgur.com/PMqSqTT.png)
