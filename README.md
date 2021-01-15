@@ -8,7 +8,7 @@
 
 🎓 I'm currently studying at [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
 
-💻 I really enjoy doing math, computer science and learning everything related to science in general.
+💻 I really enjoy computer science and learning everything related to science in general (math, physics, etc...).
 
 <br><br>
 
