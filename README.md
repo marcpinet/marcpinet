@@ -46,4 +46,4 @@ ORDER BY MasteryLevel DESC -- Means that I sorted them.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <br><br>
 
-![test2](https://i.imgur.com/PMqSqTT.png)
+![test2](https://i.imgur.com/PMqSqTT.png) 
