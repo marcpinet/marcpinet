@@ -33,7 +33,7 @@ shuffle(languagesIknowOrderedByMastery) # Means that I didn't sorted them
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 💡 OS I can use without any problem :
