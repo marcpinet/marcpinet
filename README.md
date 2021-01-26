@@ -20,7 +20,7 @@
 ## 📚 Languages I can (or will be able to) code in :
 ```py
 from random import shuffle
-shuffle(languagesIknowOrderedByMastery) # Means that I didn't sorted them
+print(shuffle(languagesIknowOrderedByMastery)) # Means that I didn't sorted them
 ```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,8 +37,11 @@ shuffle(languagesIknowOrderedByMastery) # Means that I didn't sorted them
 <br><br>
 
 ## 💡 OS I can use without any problem :
-```sql 
-ORDER BY MasteryLevel DESC -- Means that I sorted them.
+```sql
+SELECT OS.Name
+FROM OS INNER JOIN (KNOWN INNER JOIN HUMAN ON KNOWN.HumanId = HUMAN.Id) ON OS.Id = KNOWN.id
+WHERE HUMAN.LastName = "Pinet" AND Human.FirstName = "Marc"
+ORDER BY KNOWN.MasteryLevel DESC ; -- Means that I sorted them.
 ```
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
