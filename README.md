@@ -20,7 +20,8 @@
 ## 📚 Languages I can (or will be able to) code in :
 ```py
 from random import shuffle
-print(shuffle(languagesIknowOrderedByMastery)) # Means that I didn't sort them
+languagesIknow = shuffle(languagesIknow)
+print(languagesIknow) # Means that I didn't sort them
 ```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
