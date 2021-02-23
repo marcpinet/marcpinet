@@ -40,9 +40,9 @@ print(languagesIknow) # Means that I didn't sort them
 ## 💡 OS I can use without any problem :
 ```sql
 SELECT OS.Name
-FROM OS INNER JOIN (KNOWN INNER JOIN HUMAN ON KNOWN.HumanId = HUMAN.Id) ON OS.Id = KNOWN.id
+FROM OS INNER JOIN (KNOW INNER JOIN HUMAN ON KNOW.HumanId = HUMAN.Id) ON OS.Id = KNOW.id
 WHERE HUMAN.LastName = "Pinet" AND Human.FirstName = "Marc"
-ORDER BY KNOWN.MasteryLevel DESC ; -- Means that I sorted them.
+ORDER BY KNOW.MasteryLevel DESC ; -- Means that I sorted them.
 ```
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
