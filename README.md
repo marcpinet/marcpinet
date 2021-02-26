@@ -4,7 +4,7 @@
 [![My statistics](https://github-readme-stats.vercel.app/api?username=marcpinet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-👀 Hi, my name is Marc and I'm a french student who is learning computer science. I started learning it around mid 2020 (but I was already comfortable with a computer, so I hadn't needed to learn from scratch the basis, nor some aspects). In the future, I plan to join an engineer school.
+👀 Hi, my name is Marc and I'm a french student who is learning computer science. I started learning it around mid 2020 because I thought that being comfortable with a computer wasn't enough, I needed to learn deeper). In the future, I intend to join an engineer school.
 
 🎓 I'm currently studying at [**IUT Informatique de Nice**](http://unice.fr/iut/departements-denseignements/info).
 
