@@ -42,7 +42,7 @@ print(languagesIknow) # Means that I didn't sort them
 ```sql
 SELECT OS.Name
 FROM OS INNER JOIN (KNOW INNER JOIN HUMAN ON KNOW.HumanId = HUMAN.Id) ON OS.Id = KNOW.id
-WHERE HUMAN.LastName = "Pinet" AND Human.FirstName = "Marc"
+WHERE HUMAN.LastName = "Pinet" AND HUMAN.FirstName = "Marc"
 ORDER BY KNOW.MasteryLevel DESC ; -- Means that I sorted them.
 ```
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
