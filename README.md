@@ -34,7 +34,7 @@ print(languagesIknow) # Means that I didn't sort them
 ![CSS](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSharp](https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+![Kotlin](https://camo.githubusercontent.com/2d3a212706f784fe0d1c1c77a5aa96618312d0072ebdd1936dbc079c7771e7d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2532302d2532333030393544352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet)](https://github.com/anuraghazra/github-readme-stats)
