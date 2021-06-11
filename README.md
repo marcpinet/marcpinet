@@ -10,7 +10,7 @@
 
 💻 I really enjoy doing computer science stuff and learning everything related to science in general (math, physics, etc...). Every project I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do myself are often in English because I consider this as an opportunity to practice and improve myself in it.
 
-💾 I host my "projects" (yeah, call it whatever you like) on GitHub in order to compare myself through time (in the hope of seeing some &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kind of evolution in the way I code). I don't poste everything I code, fortunately. I only post what I think would be useful for me to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improve in the future once I get better (and some school projects if it can help future students from the schools I went).
+💾 I host my "projects" (yeah, call it whatever you like) on GitHub in order to compare myself through time (in the hope of seeing some &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kind of evolution in the way I code). I don't poste everything I code, fortunately. I only post what I think would be useful for me to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improve in the future once I get better (and some school projects if it can help future students from the schools I went to).
 <br><br>
 
 ## 📭 Contact me :
