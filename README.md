@@ -21,11 +21,6 @@
 
 
 ## 📚 Languages I can (or will be able to) code in :
-```py
-from random import shuffle
-shuffle(languagesIknow)
-print(languagesIknow) # Means that I didn't sort them
-```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,12 +38,6 @@ print(languagesIknow) # Means that I didn't sort them
 <br><br>
 
 ## 💡 OS I can use without any problem :
-```sql
-SELECT OS.Name
-FROM OS INNER JOIN (KNOW INNER JOIN HUMAN ON KNOW.HumanId = HUMAN.Id) ON OS.Id = KNOW.id
-WHERE HUMAN.LastName = "Pinet" AND HUMAN.FirstName = "Marc"
-ORDER BY KNOW.MasteryLevel DESC ; -- Means that I sorted them.
-```
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
