@@ -10,9 +10,9 @@
 
 🎓 Currently studying at [Polytech Nice](https://polytech.univ-cotedazur.fr/).
 
-💡 Intereseted in cybersecurity, automations, algorithms, and AI. I do wish to get a job in the future in one of these topics.
+💡 Intereseted in cybersecurity, IoT and AI. I do wish to get a job in the future in one of these topics.
 
-💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload projects which I enjoyed working on (not to get any recognition though).
+💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload personal and school projects which I enjoyed working on.
 
 # 💾 Programming languages — I mean, those I like :)
 
