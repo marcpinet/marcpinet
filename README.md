@@ -14,6 +14,8 @@
 
 💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload personal and school projects which I enjoyed working on.
 
+🥸 By the way, I have a blog where I share what I think can be useful or interesting. You can read more [here](https://marcpinet.me/).
+
 # 💾 Programming languages — I mean, those I like :)
 
 <table>
