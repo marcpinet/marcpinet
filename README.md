@@ -40,6 +40,11 @@
     <img src="./img/proglang/c.svg" width="48" height="48" alt="C" />
     <br>C
   </td>
+    </td>
+    <td align="center" width="96">
+    <img src="./img/proglang/kotlin.svg" width="48" height="48" alt="Kotlin" />
+    <br>Kotlin
+  </td>
   <td align="center" width="96">
     <img src="./img/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
     <br>PL/SQL
@@ -75,10 +80,6 @@
     <br>VS Code
   </td>
   <td align="center" width="96">
-    <img src="./img/tools/sublime-text.svg" width="48" height="48" alt="Sublime Text" />
-    <br>Sublime
-  </td>
-  <td align="center" width="96">
     <img src="./img/tools/vs.svg" width="48" height="48" alt="Visual Studio" />
     <br>VS
   </td>
@@ -98,15 +99,23 @@
     <img src="./img/tools/github.svg" width="48" height="48" alt="GitHub" />
     <br>GitHub
   </td>
+    <td align="center" width="96">
+    <img src="./img/tools/android_studio.svg" width="48" height="48" alt="Android Studio" />
+    <br>Android Studio
+  </td>
   <td align="center" width="96">
-    <img src="./img/tools/oracledb.svg" width="48" height="48" alt="MySQL" />
-    <br>Oracle
+    <img src="./img/tools/firebase.svg" width="48" height="48" alt="Firebase" />
+    <br>Firebase
   </td>
 </table>
 
 # 📬 Contact me
 
 <table>
+  <td align="center" width="96">
+    <a href="https://marcpinet.me/contact/"><img src="./img/social/marcpinet.png" width="48" height="48" alt="marcpinet" />
+    <br>My website
+  </td>
   <td align="center" width="96">
     <a href="https://www.linkedin.com/in/marc-pinet/"><img src="./img/social/linkedin.svg" width="48" height="48" alt="Linkedin" />
     <br>Linkedin
