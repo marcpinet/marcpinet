@@ -3,14 +3,14 @@
 # 📈 GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet&layout=compact&langs_count=8&theme=github_dark&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true">
 </p>
 
 # 👋 About me
 
 🎓 Currently studying at [Polytech Nice](https://polytech.univ-cotedazur.fr/).
 
-💡 Intereseted in cybersecurity, IoT and AI. I do wish to get a job in the future in one of these topics.
+💡 Interested in cybersecurity, IoT and AI. I do wish to get a job in the future in one of these topics.
 
 💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload personal and school projects which I enjoyed working on.
 
