@@ -1,11 +1,5 @@
 ![bannerbegin](https://user-images.githubusercontent.com/52708150/131679527-137537aa-df2f-4142-8f8c-c5e99fecef96.png)
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcpinet&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true">
-</p>
-
 # 👋 About me
 
 🎓 Currently studying at [Polytech Nice](https://polytech.univ-cotedazur.fr/).
