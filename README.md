@@ -2,7 +2,7 @@
 
 # 👋 About me
 
-🎓 Currently studying at [Polytech Nice](https://polytech.univ-cotedazur.fr/).
+🎓 Currently studying at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/).
 
 💡 Interested in cybersecurity, IoT and AI. I do wish to get a job in the future in one of these topics.
 
