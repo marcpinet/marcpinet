@@ -21,6 +21,11 @@
     <img src="./img/proglang/java.svg" width="48" height="48" alt="Java" />
     <br>Java
   </td>
+</td>
+    <td align="center" width="96">
+    <img src="./img/proglang/csharp.svg" width="48" height="48" alt="C#" />
+    <br>C#
+  </td>
   <td align="center" width="96">
     <img src="./img/proglang/cpp.svg" width="48" height="48" alt="C++" />
     <br>C++
