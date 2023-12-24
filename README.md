@@ -4,7 +4,7 @@
 
 🎓 Currently studying at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/).
 
-💡 Interested in cybersecurity, quantum cryptography and AI. I do wish to get a job in the future in one of these topics.
+💡 Mainly interested in artificial intelligence (AI). I do wish to get a job in the future in one of these topics.
 
 💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload personal and school projects which I enjoyed working on.
 
