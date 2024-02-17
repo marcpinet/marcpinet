@@ -10,7 +10,7 @@
 
 🥸 By the way, I have a blog where I share what I think can be useful or interesting. You can read more [here](https://marcpinet.me/).
 
-# 💾 Programming languages — I mean, those I like :)
+# 💾 Programming languages
 
 <table>
   <td align="center" width="96">
