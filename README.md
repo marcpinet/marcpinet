@@ -1,4 +1,4 @@
-![bannerbegin](https://user-images.githubusercontent.com/52708150/131679527-137537aa-df2f-4142-8f8c-c5e99fecef96.png)
+![bannerbegin](https://github.com/marcpinet/marcpinet/assets/52708150/673562d6-3e8e-4519-ab6f-dcaf25a7700a)
 
 # 👋 About me
 
@@ -12,19 +12,19 @@
 
 <table>
   <td align="center" width="96">
-    <img src="./img/proglang/python.svg" width="48" height="48" alt="Python" />
+    <img src="./resources/proglang/python.svg" width="48" height="48" alt="Python" />
     <br>Python
   </td>
   <td align="center" width="96">
-    <img src="./img/proglang/rust.svg" width="48" height="48" alt="Rust" />
+    <img src="./resources/proglang/rust.svg" width="48" height="48" alt="Rust" />
     <br>Rust
   </td>
   <td align="center" width="96">
-    <img src="./img/proglang/csharp.svg" width="48" height="48" alt="C#" />
+    <img src="./resources/proglang/csharp.svg" width="48" height="48" alt="C#" />
     <br>C#
   </td>
   <td align="center" width="96">
-    <img src="./img/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
+    <img src="./resources/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
     <br>PL/SQL
   </td>
 </table>
@@ -33,15 +33,15 @@
 
 <table>
   <td align="center" width="96">
-    <img src="./img/os/windows.svg" width="48" height="48" alt="Windows" />
+    <img src="./resources/os/windows.svg" width="48" height="48" alt="Windows" />
     <br>Windows
   </td>
   <td align="center" width="96">
-    <img src="./img/os/linux.svg" width="48" height="48" alt="Linux" />
+    <img src="./resources/os/linux.svg" width="48" height="48" alt="Linux" />
     <br>Linux
   </td>
   <td align="center" width="96">
-    <img src="./img/os/android.svg" width="48" height="48" alt="Android" />
+    <img src="./resources/os/android.svg" width="48" height="48" alt="Android" />
     <br>Android
   </td>
 </table>
@@ -50,16 +50,14 @@
 
 <table>
   <td align="center" width="96">
-    <a href="https://marcpinet.me/contact/"><img src="./img/social/marcpinet.png" width="48" height="48" alt="marcpinet" />
+    <a href="https://marcpinet.me/contact/"><img src="./resources/social/marcpinet.png" width="48" height="48" alt="marcpinet" />
     <br>Portfolio
   </td>
   <td align="center" width="96">
-    <a href="https://www.linkedin.com/in/marc-pinet/"><img src="./img/social/linkedin.svg" width="48" height="48" alt="Linkedin" />
+    <a href="https://www.linkedin.com/in/marc-pinet/"><img src="./resources/social/linkedin.svg" width="48" height="48" alt="Linkedin" />
     <br>Linkedin
   </td>
   </a>
 </table>
 
-# <!-- LEAVE EMPTY  -->
-
-![bannerend](https://user-images.githubusercontent.com/52708150/131679536-5ca5b44d-98af-460f-b47c-00ac4cca277b.png)
+![bannerend](https://github.com/marcpinet/marcpinet/assets/52708150/aec2926c-6c15-4b0a-947a-3fc1b000db94)
