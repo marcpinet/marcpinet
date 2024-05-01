@@ -24,6 +24,10 @@
     <br>C#
   </td>
   <td align="center" width="96">
+    <img src="./resources/proglang/kotlin.svg" width="48" height="48" alt="kotlin" />
+    <br>Kotlin
+  </td>
+  <td align="center" width="96">
     <img src="./resources/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
     <br>PL/SQL
   </td>
