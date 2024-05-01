@@ -29,7 +29,7 @@
   </td>
 </table>
 
-# ⚙️ Where I store the cool stuff
+# ⚙️ Where I use the cool stuff
 
 <table>
   <td align="center" width="96">
