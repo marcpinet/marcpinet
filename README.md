@@ -2,53 +2,11 @@
 
 # 👋 About me
 
-💡 Specialized in artificial intelligence (data processing, machine learning).
+💡 ML/AI Engineer (machine & deep learning, data science, software engineering)
 
-💻 I mainly use GitHub to compare myself over time, to see my improvements. I also upload personal and school projects which I enjoyed working on.
+💻 I mainly use GitHub to share my personal projects, alongside some school projects I enjoyed working on
 
-🥸 By the way, I have a blog where I share what I think can be useful or interesting. You can read more [here](https://marcpinet.me/).
-
-# 💾 Cool stuff
-
-<table>
-  <td align="center" width="96">
-    <img src="./resources/proglang/python.svg" width="48" height="48" alt="Python" />
-    <br>Python
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/proglang/rust.svg" width="48" height="48" alt="Rust" />
-    <br>Rust
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/proglang/csharp.svg" width="48" height="48" alt="C#" />
-    <br>C#
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/proglang/kotlin.svg" width="48" height="48" alt="kotlin" />
-    <br>Kotlin
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/proglang/plsql.svg" width="48" height="48" alt="PLSQL" />
-    <br>PL/SQL
-  </td>
-</table>
-
-# ⚙️ Where I use the cool stuff
-
-<table>
-  <td align="center" width="96">
-    <img src="./resources/os/windows.svg" width="48" height="48" alt="Windows" />
-    <br>Windows
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/os/linux.svg" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="./resources/os/android.svg" width="48" height="48" alt="Android" />
-    <br>Android
-  </td>
-</table>
+🥸 By the way, I have a blog where I (will) share interesting stuff about AI (from beginner-friendly to advanced level). You can read more [here](https://marcpinet.me/).
 
 # 📬 Contact me
 
