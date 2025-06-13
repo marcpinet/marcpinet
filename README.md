@@ -2,7 +2,7 @@
 
 # 👋 About me
 
-💡 ML/AI Engineer (machine & deep learning, data science, software engineering)
+💡 Incoming PhD Researcher in Deep Learning for Anomaly Detection & Explainable AI @ Orange × Université Grenoble Alpes
 
 💻 I mainly use GitHub to share my personal projects, alongside some school projects I enjoyed working on
 
