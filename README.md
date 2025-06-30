@@ -4,7 +4,7 @@
 
 💻 Hey, I mainly use GitHub to share my personal projects, alongside some school projects I enjoyed working on
 
-🥸 By the way, I have a blog where I share interesting stuff about AI (from beginner-friendly to advanced level). You can read more [here](https://marcpinet.me/).
+🥸 By the way, I have a blog where I share interesting stuff about AI (from beginner-friendly to advanced level). You can read more [here](https://marcpinet.fr/).
 
 # 📬 Contact me
 
